@@ -1,0 +1,16 @@
+---
+title: "morgangm.github.io"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+
+
+getwd()
+```
+
+![](IMG_3735.JPG)
