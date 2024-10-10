@@ -1,7 +1,3 @@
 ---
-title: "About"
+title: "Projects"
 ---
-
-<img src="MorganMathison.jpg" class="img-fluid"/>
-
-Hello! My name is Morgan Mathison. I am currently a senior at the University of Missouri studying Plant Science with an emphasis in Breeding, Biology, and Biotechnology and completing a minor in Biology. I have a strong interest in plant ecology, evolution, and morphology. This website serves as a showcase of the research I am assisting in as well as academic projects and accomplishments!
