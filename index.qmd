@@ -1,16 +1,15 @@
 ---
-title: "morgangm.github.io"
+title: "Morgan Mathison"
+image: "MorganMathison.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/morganmathison/"
+  - label: GitHub
+    url: "https://github.com/morgangm"
+  - label: Email
+    url: "mailto:morgangmathison@gmail.com"
+output:
+  postcards::jolla
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-
-
-getwd()
-```
-
-![](IMG_3735.JPG)
+Hello! My name is Morgan Mathison. I am currently a senior at the University of Missouri studying Plant Science with an emphasis in Breeding, Biology, and Biotechnology and completing a minor in Biology. I have a strong interest in plant ecology, evolution, and morphology. This website serves as a showcase of the research I am assisting in as well as academic projects and accomplishments!
