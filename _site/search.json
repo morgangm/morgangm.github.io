@@ -9,8 +9,92 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Projects",
     "section": "",
-    "text": "Hello! My name is Morgan Mathison. I am currently a senior at the University of Missouri studying Plant Science with an emphasis in Breeding, Biology, and Biotechnology and completing a minor in Biology. I have a strong interest in plant ecology, evolution, and morphology. This website serves as a showcase of the research I am assisting in as well as academic projects and accomplishments!"
+    "text": "A collection of projects I’ve participated in and work and academic related experiences!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCapstone Progress Report - October 2024\n\n\n\nQGIS\n\n\nPython\n\n\nCapstone\n\n\nGenomes by Environment\n\n\n\n\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Presentations/Mizzou_ShowMe_Research_Week/index.html",
+    "href": "Presentations/Mizzou_ShowMe_Research_Week/index.html",
+    "title": "Morgan Mathison",
+    "section": "",
+    "text": "Hello! I am Morgan Mathison, a current senior at the University of Missouri majoring in Plant Science with an emphasis in Breeding, Biology, and Biotechnology. I am also completing a minor in Biology. I have a strong interest in plant evolution, ecology, and morphology. This site serves as a collection of my current and previous research projects as well as academic projects and accomplishments!"
+  },
+  {
+    "objectID": "Presentations/Missouri_Seedsman_Association_Scholarship/index.html",
+    "href": "Presentations/Missouri_Seedsman_Association_Scholarship/index.html",
+    "title": "Morgan Mathison",
+    "section": "",
+    "text": "Hello! I am Morgan Mathison, a current senior at the University of Missouri majoring in Plant Science with an emphasis in Breeding, Biology, and Biotechnology. I am also completing a minor in Biology. I have a strong interest in plant evolution, ecology, and morphology. This site serves as a collection of my current and previous research projects as well as academic projects and accomplishments!"
+  },
+  {
+    "objectID": "posts/CapstoneProgressReport_October/index.html",
+    "href": "posts/CapstoneProgressReport_October/index.html",
+    "title": "Capstone Progress Report - October 2024",
+    "section": "",
+    "text": "My capstone project originally started with me utilizing fieldimageR in order to process orthomosaics. But, fieldimageR utilizes rgdal as a package dependency, which was retired October of 2023. The retirement hadn’t affected R until late September. After days of research and discussing the problem with fellow coworkers, I decided that the best steps going forward would be to utilizing another program for collecting vegetative indices since there is no current documentation of fieldImageR being updated to no longer be dependent on fieldImageR."
+  },
+  {
+    "objectID": "posts/Summer2024_FieldWork/index.html",
+    "href": "posts/Summer2024_FieldWork/index.html",
+    "title": "Morgan Mathison",
+    "section": "",
+    "text": "Hello! I am Morgan Mathison, a current senior at the University of Missouri majoring in Plant Science with an emphasis in Breeding, Biology, and Biotechnology. I am also completing a minor in Biology. I have a strong interest in plant evolution, ecology, and morphology. This site serves as a collection of my current and previous research projects as well as academic projects and accomplishments!"
+  },
+  {
+    "objectID": "Presentations/Mizzou_Plant_Science_Symposium/index.html",
+    "href": "Presentations/Mizzou_Plant_Science_Symposium/index.html",
+    "title": "Morgan Mathison",
+    "section": "",
+    "text": "Hello! I am Morgan Mathison, a current senior at the University of Missouri majoring in Plant Science with an emphasis in Breeding, Biology, and Biotechnology. I am also completing a minor in Biology. I have a strong interest in plant evolution, ecology, and morphology. This site serves as a collection of my current and previous research projects as well as academic projects and accomplishments!"
+  },
+  {
+    "objectID": "Presentations/index.html",
+    "href": "Presentations/index.html",
+    "title": "Morgan Mathison",
+    "section": "",
+    "text": "Hello! I am Morgan Mathison, a current senior at the University of Missouri majoring in Plant Science with an emphasis in Breeding, Biology, and Biotechnology. I am also completing a minor in Biology. I have a strong interest in plant evolution, ecology, and morphology. This site serves as a collection of my current and previous research projects as well as academic projects and accomplishments!"
+  },
+  {
+    "objectID": "Presentations/Mizzou_Digital_Agriculture_Symposium/index.html",
+    "href": "Presentations/Mizzou_Digital_Agriculture_Symposium/index.html",
+    "title": "Morgan Mathison",
+    "section": "",
+    "text": "Hello! I am Morgan Mathison, a current senior at the University of Missouri majoring in Plant Science with an emphasis in Breeding, Biology, and Biotechnology. I am also completing a minor in Biology. I have a strong interest in plant evolution, ecology, and morphology. This site serves as a collection of my current and previous research projects as well as academic projects and accomplishments!"
+  },
+  {
+    "objectID": "posts/CapstoneProgressReport_October/index.html#pivoting-from-fieldimager",
+    "href": "posts/CapstoneProgressReport_October/index.html#pivoting-from-fieldimager",
+    "title": "Capstone Progress Report - October 2024",
+    "section": "",
+    "text": "My capstone project originally started with me utilizing fieldimageR in order to process orthomosaics. But, fieldimageR utilizes rgdal as a package dependency, which was retired October of 2023. The retirement hadn’t affected R until late September. After days of research and discussing the problem with fellow coworkers, I decided that the best steps going forward would be to utilizing another program for collecting vegetative indices since there is no current documentation of fieldImageR being updated to no longer be dependent on fieldImageR."
+  },
+  {
+    "objectID": "posts/CapstoneProgressReport_October/index.html#qgis-and-python",
+    "href": "posts/CapstoneProgressReport_October/index.html#qgis-and-python",
+    "title": "Capstone Progress Report - October 2024",
+    "section": "QGIS and Python",
+    "text": "QGIS and Python\nGoing forward, my project is going to utilize primarily python for indice extraction. I have been able to calculate NDVI through QGIS resulting in some very pretty heatmaps, but python is more streamlined than QGIS. My new goals consist of processing all flight dates through python. After this is completed, I can then begin analyzing the data!"
+  },
+  {
+    "objectID": "posts/CapstoneProgressReport_October/index.html#goals-for-this-month",
+    "href": "posts/CapstoneProgressReport_October/index.html#goals-for-this-month",
+    "title": "Capstone Progress Report - October 2024",
+    "section": "Goals for this Month",
+    "text": "Goals for this Month\nMy new goals going forward consist of processing all flight dates through python. After this is completed, I can then begin analyzing the data!"
+  },
+  {
+    "objectID": "posts/CapstoneProgressReport_October/index.html#goals-going-forward",
+    "href": "posts/CapstoneProgressReport_October/index.html#goals-going-forward",
+    "title": "Capstone Progress Report - October 2024",
+    "section": "Goals Going Forward",
+    "text": "Goals Going Forward\nMy new goals going forward consist of processing all flight dates through python. After this is completed, I can then begin analyzing the data!"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "All of the presentations I have participated in!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMizzou Plant Science Symposium\n\n\n\nacademic\n\n\npresentation\n\n\n\n\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeedman Association Scholarship\n\n\n\nacademic\n\n\naward\n\n\n\n\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMizzou Show Me Research Week\n\n\n\nacademic\n\n\npresentation\n\n\n\n\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDigital Agriculture Symposium\n\n\n\nacademic\n\n\naward\n\n\npresentation\n\n\n\n\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

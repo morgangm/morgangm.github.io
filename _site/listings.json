@@ -1,0 +1,17 @@
+[
+  {
+    "listing": "/about.html",
+    "items": [
+      "/posts/CapstoneProgressReport_October/index.html"
+    ]
+  },
+  {
+    "listing": "/presentations.html",
+    "items": [
+      "/Presentations/Mizzou_Plant_Science_Symposium/index.html",
+      "/Presentations/Missouri_Seedsman_Association_Scholarship/index.html",
+      "/Presentations/Mizzou_ShowMe_Research_Week/index.html",
+      "/Presentations/Mizzou_Digital_Agriculture_Symposium/index.html"
+    ]
+  }
+]

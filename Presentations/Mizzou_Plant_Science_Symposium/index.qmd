@@ -1,0 +1,8 @@
+---
+title: "Mizzou Plant Science Symposium"
+date: "2024-10-10"
+image: "PLNTSCISYMPOSIUM.JPG"
+categories:
+  - academic
+  - presentation
+---

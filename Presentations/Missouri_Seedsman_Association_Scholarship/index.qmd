@@ -1,0 +1,8 @@
+---
+title: "Seedman Association Scholarship"
+date: "2024-10-10"
+image: "Scholarshipiamge.JPG"
+categories:
+  - academic
+  - award
+---

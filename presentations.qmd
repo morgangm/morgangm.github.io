@@ -1,0 +1,15 @@
+---
+title: "Presentations"
+listing:
+  contents:
+    - "/Presentations"
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+All of the presentations I have participated in!

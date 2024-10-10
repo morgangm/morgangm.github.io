@@ -1,0 +1,8 @@
+---
+title: "Mizzou Show Me Research Week"
+date: "2024-10-10"
+image: "IMG_3747.JPG"
+categories:
+  - academic
+  - presentation
+---
