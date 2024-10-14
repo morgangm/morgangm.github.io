@@ -1,0 +1,15 @@
+---
+title: "Floral Artistry"
+listing:
+  contents:
+    - "/FloralArtistry"
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+A large portion of my academic career at the University of Missouri was spent towards completing a certificate in Floral Artistry and Management. I love getting to combine two of my major interests: plant science and art. This section serves as a collection of the floral pieces I have completed as well as the time I have spent creating my floral artistry portfolio.
