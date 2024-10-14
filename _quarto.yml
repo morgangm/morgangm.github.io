@@ -11,6 +11,8 @@ website:
         text: Projects
       - href: presentations.qmd
         text: Presentations
+      - href: FloralArtistry.qmd
+        text: Floral Artisty
 format:
   html:
     theme: cosmo
