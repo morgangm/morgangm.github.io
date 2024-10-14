@@ -1,8 +1,10 @@
 ---
 title: "Mizzou Plant Science Symposium"
-date: "2024-10-10"
+date: "2024-03-07"
 image: "PLNTSCISYMPOSIUM.JPG"
 categories:
   - academic
   - presentation
 ---
+
+![](PLANTSCISYMPSOIUM2.JPG)For the University of Missouri's Plant Science Symposium, I presented with my colleague Madison Mitchell over her project focusing on flood tolerant maize genotypes. For this project, I focused on looking into lodging data from each of the plots to identify which plots experienced the most and least amount of lodging during the season. We found that lodging data was less correlated with specific genotypes, and theorized that the topography of the field was a major factor on plants that experienced lodging versus those that didn't. This was my first presentation experience, and I highly appreciate Madison for letting me assist in her project!
