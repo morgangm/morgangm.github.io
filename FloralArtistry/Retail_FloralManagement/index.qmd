@@ -1,0 +1,8 @@
+---
+title: "Retail Floral Management"
+date: "2024-09-25"
+image: ""
+categories:
+  - Retail Work
+  - Business Planing
+---
