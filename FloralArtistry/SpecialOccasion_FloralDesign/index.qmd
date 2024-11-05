@@ -1,7 +1,9 @@
 ---
 title: "Special Occasion Floral Design"
 date: "2024-09-25"
-image: ""
+image: "IMG_2777.JPG"
 categories:
   - Design Work
 ---
+
+![](IMG_2588.JPG){fig-align="center"}

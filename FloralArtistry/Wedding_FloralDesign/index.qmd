@@ -1,8 +1,20 @@
 ---
 title: "Wedding Floral Design"
 date: "2024-09-25"
-image: ""
+image: "IMG_4359.JPG"
 categories:
   - Design Work
   - Weddings
 ---
+
+This was the fourth course I took for my certificate and the final design based course. Over the course of the semester, I was able to partake in projects centered around wedding designs, ranging from hairpieces to arbors and bouquets.
+
+![](IMG_3424.JPG){fig-align="center"}
+
+![](IMG_3443.JPG){fig-align="center"}
+
+![](IMG_3458.JPG){fig-align="center"}
+
+![](IMG_3734.JPG)
+
+![](IMG_4364.JPG)

@@ -1,8 +1,11 @@
 ---
 title: "Retail Floral Management"
 date: "2024-09-25"
-image: ""
+image: "MathisonLogo.png"
 categories:
   - Retail Work
   - Business Planing
+---
+
+This course is still in progress! Updates to come at a later date :)
 ---
