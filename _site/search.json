@@ -1,45 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Morgan Mathison",
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
     "section": "",
-    "text": "Hello! I am Morgan Mathison, a current senior at the University of Missouri majoring in Plant Science with an emphasis in Breeding, Biology, and Biotechnology. I am also completing a minor in Biology. I have a strong interest in plant evolution, ecology, and morphology. This site serves as a collection of my current and previous research projects as well as academic projects and accomplishments!"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Projects",
-    "section": "",
-    "text": "A collection of projects I’ve participated in and work and academic related experiences!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCapstone Progress Report - October 2024\n\n\n\nQGIS\n\n\nPython\n\n\nCapstone\n\n\nGenomes by Environment\n\n\n\n\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "Presentations/Mizzou_ShowMe_Research_Week/index.html",
-    "href": "Presentations/Mizzou_ShowMe_Research_Week/index.html",
-    "title": "Morgan Mathison",
-    "section": "",
-    "text": "Hello! I am Morgan Mathison, a current senior at the University of Missouri majoring in Plant Science with an emphasis in Breeding, Biology, and Biotechnology. I am also completing a minor in Biology. I have a strong interest in plant evolution, ecology, and morphology. This site serves as a collection of my current and previous research projects as well as academic projects and accomplishments!"
-  },
-  {
-    "objectID": "Presentations/Missouri_Seedsman_Association_Scholarship/index.html",
-    "href": "Presentations/Missouri_Seedsman_Association_Scholarship/index.html",
-    "title": "Morgan Mathison",
-    "section": "",
-    "text": "Hello! I am Morgan Mathison, a current senior at the University of Missouri majoring in Plant Science with an emphasis in Breeding, Biology, and Biotechnology. I am also completing a minor in Biology. I have a strong interest in plant evolution, ecology, and morphology. This site serves as a collection of my current and previous research projects as well as academic projects and accomplishments!"
-  },
-  {
-    "objectID": "posts/CapstoneProgressReport_October/index.html",
-    "href": "posts/CapstoneProgressReport_October/index.html",
-    "title": "Capstone Progress Report - October 2024",
-    "section": "",
-    "text": "My capstone project originally started with me utilizing fieldimageR in order to process orthomosaics. But, fieldimageR utilizes rgdal as a package dependency, which was retired October of 2023. The retirement hadn’t affected R until late September. After days of research and discussing the problem with fellow coworkers, I decided that the best steps going forward would be to utilizing another program for collecting vegetative indices since there is no current documentation of fieldImageR being updated to no longer be dependent on fieldImageR."
-  },
-  {
-    "objectID": "posts/Summer2024_FieldWork/index.html",
-    "href": "posts/Summer2024_FieldWork/index.html",
-    "title": "Morgan Mathison",
-    "section": "",
-    "text": "Hello! I am Morgan Mathison, a current senior at the University of Missouri majoring in Plant Science with an emphasis in Breeding, Biology, and Biotechnology. I am also completing a minor in Biology. I have a strong interest in plant evolution, ecology, and morphology. This site serves as a collection of my current and previous research projects as well as academic projects and accomplishments!"
+    "text": "All of the presentations I have participated in!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMizzou Show Me Research Week\n\n\n\nacademic\n\n\npresentation\n\n\n\n\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDigital Agriculture Symposium\n\n\n\nacademic\n\n\naward\n\n\npresentation\n\n\n\n\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeedmans Association Scholarship\n\n\n\nacademic\n\n\nawards\n\n\n\n\n\n\n\n\n\n\nSep 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMizzou Plant Science Symposium\n\n\n\nacademic\n\n\npresentation\n\n\n\n\n\n\n\n\n\n\nMar 7, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Presentations/Mizzou_Plant_Science_Symposium/index.html",
@@ -49,18 +14,18 @@
     "text": "For the University of Missouri’s Plant Science Symposium, I presented with my colleague Madison Mitchell over her project focusing on flood tolerant maize genotypes. For this project, I focused on looking into lodging data from each of the plots to identify which plots experienced the most and least amount of lodging during the season. We found that lodging data was less correlated with specific genotypes, and theorized that the topography of the field was a major factor on plants that experienced lodging versus those that didn’t. This was my first presentation experience, and I highly appreciate Madison for letting me assist in her project!"
   },
   {
-    "objectID": "Presentations/index.html",
-    "href": "Presentations/index.html",
-    "title": "Morgan Mathison",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Projects",
     "section": "",
-    "text": "Hello! I am Morgan Mathison, a current senior at the University of Missouri majoring in Plant Science with an emphasis in Breeding, Biology, and Biotechnology. I am also completing a minor in Biology. I have a strong interest in plant evolution, ecology, and morphology. This site serves as a collection of my current and previous research projects as well as academic projects and accomplishments!"
+    "text": "A collection of projects I’ve participated in and work and academic related experiences!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCapstone Progress Report - October 2024\n\n\n\nQGIS\n\n\nPython\n\n\nCapstone\n\n\nGenomes by Environment\n\n\n\n\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "Presentations/Mizzou_Digital_Agriculture_Symposium/index.html",
-    "href": "Presentations/Mizzou_Digital_Agriculture_Symposium/index.html",
-    "title": "Morgan Mathison",
+    "objectID": "posts/CapstoneProgressReport_October/index.html",
+    "href": "posts/CapstoneProgressReport_October/index.html",
+    "title": "Capstone Progress Report - October 2024",
     "section": "",
-    "text": "Hello! I am Morgan Mathison, a current senior at the University of Missouri majoring in Plant Science with an emphasis in Breeding, Biology, and Biotechnology. I am also completing a minor in Biology. I have a strong interest in plant evolution, ecology, and morphology. This site serves as a collection of my current and previous research projects as well as academic projects and accomplishments!"
+    "text": "My capstone project originally started with me utilizing fieldimageR in order to process orthomosaics. But, fieldimageR utilizes rgdal as a package dependency, which was retired October of 2023. The retirement hadn’t affected R until late September. After days of research and discussing the problem with fellow coworkers, I decided that the best steps going forward would be to utilizing another program for collecting vegetative indices since there is no current documentation of fieldImageR being updated to no longer be dependent on fieldImageR."
   },
   {
     "objectID": "posts/CapstoneProgressReport_October/index.html#pivoting-from-fieldimager",
@@ -77,34 +42,6 @@
     "text": "QGIS and Python\nGoing forward, my project is going to utilize primarily python for indice extraction. I have been able to calculate NDVI through QGIS resulting in some very pretty heatmaps, but python is more streamlined than QGIS. My new goals consist of processing all flight dates through python. After this is completed, I can then begin analyzing the data!"
   },
   {
-    "objectID": "posts/CapstoneProgressReport_October/index.html#goals-for-this-month",
-    "href": "posts/CapstoneProgressReport_October/index.html#goals-for-this-month",
-    "title": "Capstone Progress Report - October 2024",
-    "section": "Goals for this Month",
-    "text": "Goals for this Month\nMy new goals going forward consist of processing all flight dates through python. After this is completed, I can then begin analyzing the data!"
-  },
-  {
-    "objectID": "posts/CapstoneProgressReport_October/index.html#goals-going-forward",
-    "href": "posts/CapstoneProgressReport_October/index.html#goals-going-forward",
-    "title": "Capstone Progress Report - October 2024",
-    "section": "Goals Going Forward",
-    "text": "Goals Going Forward\nMy new goals going forward consist of processing all flight dates through python. After this is completed, I can then begin analyzing the data!"
-  },
-  {
-    "objectID": "presentations.html",
-    "href": "presentations.html",
-    "title": "Presentations",
-    "section": "",
-    "text": "All of the presentations I have participated in!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMizzou Show Me Research Week\n\n\n\nacademic\n\n\npresentation\n\n\n\n\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDigital Agriculture Symposium\n\n\n\nacademic\n\n\naward\n\n\npresentation\n\n\n\n\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeedmans Association Scholarship\n\n\n\nacademic\n\n\nawards\n\n\n\n\n\n\n\n\n\n\nSep 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMizzou Plant Science Symposium\n\n\n\nacademic\n\n\npresentation\n\n\n\n\n\n\n\n\n\n\nMar 7, 2024\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "FloralArtistry.html",
-    "href": "FloralArtistry.html",
-    "title": "Floral Artistry",
-    "section": "",
-    "text": "A large portion of my academic career at the University of Missouri was spent towards completing a certificate in Floral Artistry and Management. I love getting to combine two of my major interests: plant science and art. This section serves as a collection of the floral pieces I have completed as well as the time I have spent creating my floral artistry portfolio.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvery Day Floral Design\n\n\n\nDesign Work\n\n\n\n\n\n\n\n\n\n\nOct 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWedding Floral Design\n\n\n\nDesign Work\n\n\nWeddings\n\n\n\n\n\n\n\n\n\n\nSep 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRetail Floral Management\n\n\n\nRetail Work\n\n\nBusiness Planing\n\n\n\n\n\n\n\n\n\n\nSep 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpecial Occasion Floral Design\n\n\n\nDesign Work\n\n\n\n\n\n\n\n\n\n\nSep 25, 2024\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "FloralArtistry/Retail_FloralManagement/index.html",
     "href": "FloralArtistry/Retail_FloralManagement/index.html",
     "title": "Retail Floral Management",
@@ -117,5 +54,19 @@
     "title": "Wedding Floral Design",
     "section": "",
     "text": "This was the fourth course I took for my certificate and the final design based course. Over the course of the semester, I was able to partake in projects centered around wedding designs, ranging from hairpieces to arbors and bouquets."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Morgan Mathison",
+    "section": "",
+    "text": "Hello! I am Morgan Mathison, a current senior at the University of Missouri majoring in Plant Science with an emphasis in Breeding, Biology, and Biotechnology. I am also completing a minor in Biology. I have a strong interest in plant evolution, ecology, and morphology. This site serves as a collection of my current and previous research projects as well as academic projects and accomplishments!"
+  },
+  {
+    "objectID": "FloralArtistry.html",
+    "href": "FloralArtistry.html",
+    "title": "Floral Artistry",
+    "section": "",
+    "text": "A large portion of my academic career at the University of Missouri was spent towards completing a certificate in Floral Artistry and Management. I love getting to combine two of my major interests: plant science and art. This section serves as a collection of the floral pieces I have completed as well as the time I have spent creating my floral artistry portfolio.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvery Day Floral Design\n\n\n\nDesign Work\n\n\n\n\n\n\n\n\n\n\nOct 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWedding Floral Design\n\n\n\nDesign Work\n\n\nWeddings\n\n\n\n\n\n\n\n\n\n\nSep 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRetail Floral Management\n\n\n\nRetail Work\n\n\nBusiness Planing\n\n\n\n\n\n\n\n\n\n\nSep 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpecial Occasion Floral Design\n\n\n\nDesign Work\n\n\n\n\n\n\n\n\n\n\nSep 25, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
