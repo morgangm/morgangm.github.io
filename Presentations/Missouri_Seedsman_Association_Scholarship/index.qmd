@@ -1,5 +1,5 @@
 ---
-title: "Seedmans Association Scholarship"
+title: "Seedmen's Association Scholarship"
 date: "2024-09-25"
 image: "Scholarshipimage.JPG"
 categories:
