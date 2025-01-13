@@ -3,10 +3,10 @@ title: "Seedmen's Association Scholarship"
 date: "2024-09-25"
 image: "Scholarshipimage.JPG"
 categories:
-  - academic
-  - awards
+  - Academic
+  - Award
 ---
 
 ![](Scholarshipimage.JPG)
 
-I was incredibly lucky to be selected for a scholarship from the Missouri Seedsmen's Association in the fall of 2024. I am so thankful to the Missouri Seedsmen's Association for supporting my academic endeavors, and greatly enjoyed getting to converse with members of the association!
+I was incredibly lucky to be selected for a scholarship from the Missouri Seedmen's Association in the fall of 2024. I am so thankful to the Missouri Seedmen's Association for supporting my academic endeavors, and greatly enjoyed getting to converse with members of the association!

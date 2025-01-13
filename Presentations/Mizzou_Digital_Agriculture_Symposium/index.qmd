@@ -1,11 +1,11 @@
 ---
 title: "Digital Agriculture Symposium"
-date: "2024-10-10"
-image: "IMG_5679.jpg"
+date: "2024-06-20"
+image: "IMG_5632.jpg"
 categories:
-  - academic
-  - award
-  - presentation
+  - Academic
+  - Award
+  - Presentation
 ---
 
 ![](IMG_5679.jpg)
