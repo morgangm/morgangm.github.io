@@ -1,0 +1,15 @@
+---
+title: "BioGEM Orientation"
+date: "2025-08-07"
+image: "CampusOverlook.JPG"
+categories:
+- BioGEM
+---
+
+# Hello Lawrence!
+
+This past May, I graduated from Mizzou and am now spending my next year researching at the University of Kansas under the EEB Department.
+
+I've been here for a little while now and orientation is just now ending, and soon I'll be focusing more on research! It's been fantastic to meet the other members of my cohort and begin outlining my next research project! Stay tuned for more info in the following months! :)
+
+![](JayhawkStatue.JPG)

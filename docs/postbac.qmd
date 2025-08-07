@@ -2,7 +2,7 @@
 title: "Post Baccalaureate Research"
 listing:
   contents:
-    - "/PostBac"
+    - "/postbac"
   sort: "date desc"
   type: grid
   categories: true

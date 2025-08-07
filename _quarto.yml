@@ -11,11 +11,12 @@ website:
       - href: undergrad.qmd
         text: Undergrad Research
       - href: postbac.qmd
-        text: PostBac Research
+        text: Post Baccalaureate Research
       - href: presentations.qmd
         text: Presentations
       - href: FloralArtistry.qmd
         text: Floral Artisty
+        
 format:
   html:
     theme: minty
