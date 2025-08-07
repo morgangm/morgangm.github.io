@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2024-10-10">
+<meta name="dcterms.date" content="2025-01-28">
 
-<title>Capstone Progress Report - October 2024 – Morgan Mathison</title>
+<title>Capstone Progress Report - January 2025 – Morgan Mathison</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -125,8 +125,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#pivoting-from-fieldimager" id="toc-pivoting-from-fieldimager" class="nav-link active" data-scroll-target="#pivoting-from-fieldimager">Pivoting from FieldImageR</a></li>
-  <li><a href="#qgis-and-python" id="toc-qgis-and-python" class="nav-link" data-scroll-target="#qgis-and-python">QGIS and Python</a></li>
+  <li><a href="#what-is-ndvi" id="toc-what-is-ndvi" class="nav-link active" data-scroll-target="#what-is-ndvi">What is NDVI?</a></li>
+  <li><a href="#project-goal" id="toc-project-goal" class="nav-link" data-scroll-target="#project-goal">Project Goal</a></li>
+  <li><a href="#current-progress" id="toc-current-progress" class="nav-link" data-scroll-target="#current-progress">Current Progress</a></li>
+  <li><a href="#acknowledgements" id="toc-acknowledgements" class="nav-link" data-scroll-target="#acknowledgements">Acknowledgements</a></li>
   </ul>
 </nav>
     </div>
@@ -135,8 +137,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Capstone Progress Report - October 2024</h1>
-<p class="subtitle lead">Moving from fieldimageR to python!</p>
+<h1 class="title">Capstone Progress Report - January 2025</h1>
+<p class="subtitle lead">Analyze, Graph, Repeat!</p>
   <div class="quarto-categories">
     <div class="quarto-category">Senior Capstone</div>
   </div>
@@ -150,7 +152,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">October 10, 2024</p>
+      <p class="date">January 28, 2025</p>
     </div>
   </div>
   
@@ -162,13 +164,22 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="pivoting-from-fieldimager" class="level2">
-<h2 class="anchored" data-anchor-id="pivoting-from-fieldimager">Pivoting from FieldImageR</h2>
-<p>My capstone project originally started with me utilizing fieldimageR in order to process orthomosaics. But, fieldimageR utilizes rgdal as a package dependency, which was retired October of 2023. The retirement hadn’t affected R until late September. After days of research and discussing the problem with fellow coworkers, I decided that the best steps going forward would be to utilizing another program for collecting vegetative indices since there is no current documentation of fieldImageR being updated to no longer be dependent on fieldImageR.</p>
+<section id="what-is-ndvi" class="level1">
+<h1>What is NDVI?</h1>
+<p>After running the QGIS grids and orthomosaics through the python script, I ended up with a large collection of vegetative indices extracted for each individual plot of maize for every flight. These .csv files included a wide variety of indices, including GNDVI, SAVI, EVI, and MCARI. My project is focusing on NDVI; Normalized Difference Vegetative Index, a plant health indicator that examines photosynthetic capacity of a plant. The equation utilizes reflectance values of red light (R) and near infrared light (NIR) to record how much red light and near infrared light the plant is absorbing versus reflecting. The graphic I created below is based off of another figure I made for an upcoming publication with Madison Mitchell. Photosynthetically active plants would be utilizing a large amount of red light and not reflecting it, as red light is a major wavelength utilized for photosynthesis. But near infrared light is just at the edge of the absorption spectrum, leading to plants only absorbing some of it. In an unhealthy plant, not as much red light is being absorbed and used in photosynthesis, leading to a large amount of reflection, indicating a decrease in photosynthetic capacity.</p>
 </section>
-<section id="qgis-and-python" class="level2">
-<h2 class="anchored" data-anchor-id="qgis-and-python">QGIS and Python</h2>
-<p>Going forward, my project is going to utilize primarily python for indice extraction. I have been able to calculate NDVI through QGIS resulting in some very pretty heatmaps, but python is more streamlined than QGIS. My new goals consist of processing all flight dates through python. After this is completed, I can then begin analyzing the data!</p>
+<section id="project-goal" class="level1">
+<h1>Project Goal</h1>
+<p>My capstone project looks at NDVI values across the growing season of 2023 in two separate fields containing the same genotypes of maize in Columbia, Missouri. The goal is to compare the values between both fields alongside environmental data to better understand the relationship between NDVI and genotype by environment interactions (GxE).</p>
+</section>
+<section id="current-progress" class="level1">
+<h1>Current Progress</h1>
+<p>As of current, I have been able to calculate NDVI values for each plot of plants during each flight date. I brought these .csv values into R, and with assistance from Daniel Kick, created a script to assign rows and ranges to the values and make heatmaps for each flight! Below are some of the heatmaps from the Rollins 6 Field.</p>
+<p><img src="R6_NDVI1_230720_Heatmap.png" class="img-fluid"></p>
+</section>
+<section id="acknowledgements" class="level1">
+<h1>Acknowledgements</h1>
+<p>This project has been a challenge, and the consistent support from my PI and fellow lab members have been an amazing help! A special thank you to Worasit Sangjan for Python extraction scripts, Harper Lafond for Pix4D assistance, Daniel Kick for R debugging, and my PI Dr.&nbsp;Washburn for continuous assistance and advising in this project! I cant wait to see this project continue! :)</p>
 
 
 </section>

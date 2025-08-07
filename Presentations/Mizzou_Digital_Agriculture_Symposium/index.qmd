@@ -3,9 +3,9 @@ title: "Digital Agriculture Symposium"
 date: "2024-06-20"
 image: "IMG_5632.jpg"
 categories:
-  - Academic
+  - Undergrad
+  - Poster
   - Award
-  - Presentation
 ---
 
 ![](IMG_5679.jpg)

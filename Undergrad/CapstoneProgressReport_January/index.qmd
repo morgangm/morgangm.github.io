@@ -2,11 +2,9 @@
 title: "Capstone Progress Report - January 2025"
 subtitle: "Analyze, Graph, Repeat!"
 date: "2025-01-28"
-image: "NR6_NDVI1_230720_Heatmap.png"
+image: "8DayNDVIHeatmapGDDCompare_editable.png"
 categories:
-  - Undergrad Capstone
-  - NDVI
-  - R
+  - Senior Capstone
 ---
 
 # What is NDVI?

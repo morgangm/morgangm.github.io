@@ -1,10 +1,12 @@
 ---
-title: "Mizzou Undergraduate Research Day"
+title: "Mizzou Undergraduate Research Day 2024"
 date: "2024-12-05"
 image: "IMG_7351.JPG"
 categories:
   - Undergrad
   - Poster
 ---
+
+![](IMG_7351.JPG)
 
 In December of 2024, I presented my first poster over my capstone project at Mizzou's Fall Undergraduate Research Day! "Utilizing Drone Imaging to Understand Plant Health" takes drone images my lab and I collected over the summer of 2023 and uses them to understand plant health in two unique environments! While my project is still ongoing, preliminary results have found similar NDVI levels across the fields and have looked into a specific dip in NDVI levels in one field during late July. Future directions focus on incorporating environmental and phenotypic data and more comparisons between both of the environments.
