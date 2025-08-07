@@ -4,11 +4,9 @@ subtitle: "Analyze, Graph, Repeat!"
 date: "2025-01-28"
 image: "NR6_NDVI1_230720_Heatmap.png"
 categories:
-  - QGIS
-  - Python
-  - Capstone
-  - R 
-  - Genomes by Environment
+  - Undergrad Capstone
+  - NDVI
+  - R
 ---
 
 # What is NDVI?

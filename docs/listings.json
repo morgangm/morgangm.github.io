@@ -24,5 +24,16 @@
       "/FloralArtistry/Retail_FloralManagement/index.html",
       "/FloralArtistry/SpecialOccasion_FloralDesign/index.html"
     ]
+  },
+  {
+    "listing": "/Undergrad.html",
+    "items": [
+      "/posts/CapstoneProgressReport_January/index.html",
+      "/posts/CapstoneProgressReport_October/index.html"
+    ]
+  },
+  {
+    "listing": "/PostBac.html",
+    "items": []
   }
 ]

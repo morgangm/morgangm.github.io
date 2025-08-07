@@ -8,15 +8,17 @@ website:
     left:
       - href: index.qmd
         text: About Me
-      - href: about.qmd
-        text: Projects
+      - href: undergrad.qmd
+        text: Undergrad Research
+      - href: postbac.qmd
+        text: PostBac Research
       - href: presentations.qmd
         text: Presentations
       - href: FloralArtistry.qmd
         text: Floral Artisty
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
 
