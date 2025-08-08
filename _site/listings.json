@@ -2,15 +2,17 @@
   {
     "listing": "/presentations.html",
     "items": [
-      "/Presentations/Mizzou_ShowMe_Research_Week/index.html",
-      "/Presentations/Mizzou_Digital_Agriculture_Symposium/index.html",
+      "/Presentations/Mizzou_Undergraduate_Research_Day/index.html",
       "/Presentations/Missouri_Seedsman_Association_Scholarship/index.html",
+      "/Presentations/Mizzou_Digital_Agriculture_Symposium/index.html",
+      "/Presentations/Mizzou_ShowMe_Research_Week/index.html",
       "/Presentations/Mizzou_Plant_Science_Symposium/index.html"
     ]
   },
   {
     "listing": "/about.html",
     "items": [
+      "/posts/CapstoneProgressReport_January/index.html",
       "/posts/CapstoneProgressReport_October/index.html"
     ]
   },
@@ -21,6 +23,30 @@
       "/FloralArtistry/Wedding_FloralDesign/index.html",
       "/FloralArtistry/Retail_FloralManagement/index.html",
       "/FloralArtistry/SpecialOccasion_FloralDesign/index.html"
+    ]
+  },
+  {
+    "listing": "/Undergrad.html",
+    "items": [
+      "/posts/CapstoneProgressReport_January/index.html",
+      "/posts/CapstoneProgressReport_October/index.html"
+    ]
+  },
+  {
+    "listing": "/PostBac.html",
+    "items": []
+  },
+  {
+    "listing": "/undergrad.html",
+    "items": [
+      "/Undergrad/CapstoneProgressReport_January/index.html",
+      "/Undergrad/CapstoneProgressReport_October/index.html"
+    ]
+  },
+  {
+    "listing": "/postbac.html",
+    "items": [
+      "/postbac/BioGEM/index.html"
     ]
   }
 ]
