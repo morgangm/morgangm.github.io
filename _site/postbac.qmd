@@ -1,0 +1,15 @@
+---
+title: "Post Baccalaureate Research"
+listing:
+  contents:
+    - "/postbac"
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+Currently, I am a post baccalaureate researcher as part of an NSF RaMP Program at the University of Kansas in the Evolution and Ecology Department. I just began this position, and will post more about it as I dive further into research!

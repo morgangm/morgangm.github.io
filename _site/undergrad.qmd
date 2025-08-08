@@ -1,0 +1,15 @@
+---
+title: "Undergrad Research"
+listing:
+  contents:
+    - "/Undergrad"
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+During my undergrad, I was a research assistant in the lab of Dr. Jacob Washburn, who focuses on utilizing drone imaging in order to phenotype maize plants. As part of my experience, I completed a senior capstone.
