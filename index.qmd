@@ -9,7 +9,3 @@ Hello! I am Morgan Mathison. I am a Postbaccalaureate researcher at the Universi
 Prior to my current position, I earned my BS in Plant Science at the University of Missouri in May of 2025, where I also completed a minor in Biology and a certificate in Retail Floral Management. As an undergrad, I was involved in research and assisted in a USDA lab, where I worked on utilizing drone imaging in plant phenotyping.
 
 This website serves as a collection of my past and current projects, as well as presentations and achievements!
-
-## Contact Information
-
-[Linkedin](https:www.linkedin.com/in/morganmathison)

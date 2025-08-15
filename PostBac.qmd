@@ -12,4 +12,4 @@ page-layout: full
 title-block-banner: true
 ---
 
-Currently, I am a post baccalaureate researcher as part of an NSF RaMP Program at the University of Kansas in the Evolution and Ecology Department. I just began this position, and will post more about it as I dive further into research!
+Currently, I am a post baccalaureate researcher as part of an NSF RaMP Program at the University of Kansas in the Evolution and Ecology Department, specifically within the division of Paleobotany in the lab of Dr. Brian Atkinson. I just began this position, and will post more about it as I dive further into research!
