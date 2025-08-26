@@ -60,7 +60,7 @@
     "href": "index.html",
     "title": "Morgan Mathison",
     "section": "",
-    "text": "Hello! I am Morgan Mathison. I am a Postbaccalaureate researcher at the University of Kansas, where I am currently researching Plant Evolution. 🌱🔬\nPrior to my current position, I earned my BS in Plant Science at the University of Missouri in May of 2025, where I also completed a minor in Biology and a certificate in Retail Floral Management. As an undergrad, I was involved in research and assisted in a USDA lab, where I worked on utilizing drone imaging in plant phenotyping.\nThis website serves as a collection of my past and current projects, as well as presentations and achievements!"
+    "text": "Hello! I am Morgan Mathison. I am a Postbaccalaureate researcher at the University of Kansas, where I am currently working in the Natural History Museum’s department of Paleobotany. I am researching angiosperm evolution and diversification in the late Cretaceous! 🌱🔬\nPrior to my current position, I earned my BS in Plant Science at the University of Missouri in May of 2025, where I also completed a minor in Biology and a certificate in Retail Floral Management. As an undergrad, I was involved in research and assisted in a USDA lab, where I worked on utilizing drone imaging in plant phenotyping.\nThis website serves as a collection of my past and current projects, as well as presentations and achievements!"
   },
   {
     "objectID": "FloralArtistry.html",
@@ -144,7 +144,7 @@
     "href": "postbac.html",
     "title": "Post Baccalaureate Research",
     "section": "",
-    "text": "Currently, I am a post baccalaureate researcher as part of an NSF RaMP Program at the University of Kansas in the Evolution and Ecology Department. I just began this position, and will post more about it as I dive further into research!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBioGEM Orientation\n\n\n\nBioGEM\n\n\n\n\n\n\n\n\n\n\nAug 7, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Currently, I am a post baccalaureate researcher as part of an NSF RaMP Program at the University of Kansas in the Evolution and Ecology Department, specifically within the division of Paleobotany in the lab of Dr. Brian Atkinson. I just began this position, and will post more about it as I dive further into research!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBioGEM Orientation\n\n\n\nBioGEM\n\n\n\n\n\n\n\n\n\n\nAug 7, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#contact-information",
@@ -187,5 +187,26 @@
     "title": "Capstone Progress Report - October 2024",
     "section": "QGIS and Python",
     "text": "QGIS and Python\nGoing forward, my project is going to utilize primarily python for indice extraction. I have been able to calculate NDVI through QGIS resulting in some very pretty heatmaps, but python is more streamlined than QGIS. My new goals consist of processing all flight dates through python. After this is completed, I can then begin analyzing the data!"
+  },
+  {
+    "objectID": "PostbacResearch.html",
+    "href": "PostbacResearch.html",
+    "title": "Post Baccalaureate Research",
+    "section": "",
+    "text": "Currently, I am a post baccalaureate researcher as part of an NSF RaMP Program at the University of Kansas in the Evolution and Ecology Department, specifically within the division of Paleobotany in the lab of Dr. Brian Atkinson. I just began this position, and will post more about it as I dive further into research!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBioGEM Orientation\n\n\n\nBioGEM\n\n\n\n\n\n\n\n\n\n\nAug 7, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "UndergradResearch.html",
+    "href": "UndergradResearch.html",
+    "title": "Undergrad Research",
+    "section": "",
+    "text": "During my undergrad, I was a research assistant in the lab of Dr. Jacob Washburn, who focuses on utilizing drone imaging in order to phenotype maize plants. As part of my experience, I completed a senior capstone.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCapstone Progress Report - January 2025\n\n\n\nSenior Capstone\n\n\n\n\n\n\n\n\n\n\nJan 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCapstone Progress Report - October 2024\n\n\n\nSenior Capstone\n\n\n\n\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "PostbacResearch/BioGEM/index.html",
+    "href": "PostbacResearch/BioGEM/index.html",
+    "title": "BioGEM Orientation",
+    "section": "",
+    "text": "Hello Lawrence!\nThis past May, I graduated from Mizzou and am now spending my next year researching at the University of Kansas under the EEB Department.\nI’ve been here for a little while now and orientation is just now ending, and soon I’ll be focusing more on research! It’s been fantastic to meet the other members of my cohort and begin outlining my next research project! Stay tuned for more info in the following months! :)"
   }
 ]

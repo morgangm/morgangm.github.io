@@ -39,14 +39,27 @@
   {
     "listing": "/undergrad.html",
     "items": [
-      "/Undergrad/CapstoneProgressReport_January/index.html",
-      "/Undergrad/CapstoneProgressReport_October/index.html"
+      "/UndergradResearch/CapstoneProgressReport_January/index.html",
+      "/UndergradResearch/CapstoneProgressReport_October/index.html"
     ]
   },
   {
     "listing": "/postbac.html",
     "items": [
-      "/postbac/BioGEM/index.html"
+      "/PostbacResearch/BioGEM/index.html"
+    ]
+  },
+  {
+    "listing": "/PostbacResearch.html",
+    "items": [
+      "/PostbacResearch/BioGEM/index.html"
+    ]
+  },
+  {
+    "listing": "/UndergradResearch.html",
+    "items": [
+      "/UndergradResearch/CapstoneProgressReport_January/index.html",
+      "/UndergradResearch/CapstoneProgressReport_October/index.html"
     ]
   }
 ]

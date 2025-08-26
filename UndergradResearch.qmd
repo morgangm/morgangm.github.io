@@ -2,7 +2,7 @@
 title: "Undergrad Research"
 listing:
   contents:
-    - "/Undergrad"
+    - "/UndergradResearch"
   sort: "date desc"
   type: grid
   categories: true

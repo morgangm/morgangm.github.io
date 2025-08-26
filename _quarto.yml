@@ -8,9 +8,9 @@ website:
     left:
       - href: index.qmd
         text: About Me
-      - href: undergrad.qmd
+      - href: UndergradResearch.qmd
         text: Undergrad Research
-      - href: postbac.qmd
+      - href: PostbacResearch.qmd
         text: Post Baccalaureate Research
       - href: presentations.qmd
         text: Presentations
