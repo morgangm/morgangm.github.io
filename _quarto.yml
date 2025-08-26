@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: About Me
+      - href: UndergradResearch.qmd
+        text: Undergrad Research
       - href: presentations.qmd
         text: Presentations
       - href: FloralArtistry.qmd

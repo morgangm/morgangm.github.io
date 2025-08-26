@@ -1,0 +1,26 @@
+---
+title: "Capstone Progress Report - January 2025"
+subtitle: "Analyze, Graph, Repeat!"
+date: "2025-01-28"
+image: "8DayNDVIHeatmapGDDCompare_editable.png"
+categories:
+  - Senior Capstone
+---
+
+# What is NDVI?
+
+After running the QGIS grids and orthomosaics through the python script, I ended up with a large collection of vegetative indices extracted for each individual plot of maize for every flight. These .csv files included a wide variety of indices, including GNDVI, SAVI, EVI, and MCARI. My project is focusing on NDVI; Normalized Difference Vegetative Index, a plant health indicator that examines photosynthetic capacity of a plant. The equation utilizes reflectance values of red light (R) and near infrared light (NIR) to record how much red light and near infrared light the plant is absorbing versus reflecting. The graphic I created below is based off of another figure I made for an upcoming publication with Madison Mitchell. Photosynthetically active plants would be utilizing a large amount of red light and not reflecting it, as red light is a major wavelength utilized for photosynthesis. But near infrared light is just at the edge of the absorption spectrum, leading to plants only absorbing some of it. In an unhealthy plant, not as much red light is being absorbed and used in photosynthesis, leading to a large amount of reflection, indicating a decrease in photosynthetic capacity.
+
+# Project Goal
+
+My capstone project looks at NDVI values across the growing season of 2023 in two separate fields containing the same genotypes of maize in Columbia, Missouri. The goal is to compare the values between both fields alongside environmental data to better understand the relationship between NDVI and genotype by environment interactions (GxE).
+
+# Current Progress
+
+As of current, I have been able to calculate NDVI values for each plot of plants during each flight date. I brought these .csv values into R, and with assistance from Daniel Kick, created a script to assign rows and ranges to the values and make heatmaps for each flight! Below are some of the heatmaps from the Rollins 6 Field.
+
+![](R6_NDVI1_230720_Heatmap.png)
+
+# Acknowledgements
+
+This project has been a challenge, and the consistent support from my PI and fellow lab members have been an amazing help! A special thank you to Worasit Sangjan for Python extraction scripts, Harper Lafond for Pix4D assistance, Daniel Kick for R debugging, and my PI Dr. Washburn for continuous assistance and advising in this project! I cant wait to see this project continue! :)
