@@ -1,0 +1,15 @@
+---
+title: "Postbaccalaureate Research"
+listing:
+  contents:
+    - "/PostbacResearch"
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+Currently, I am a post baccalaureate researcher as part of an NSF RaMP Program at the University of Kansas in the Evolution and Ecology Department, specifically within the division of Paleobotany in the lab of Dr. Brian Atkinson. My project consists of describing and taxonomically placing Cretaceous-age fossilized fruit specimens from Antarctica. 
