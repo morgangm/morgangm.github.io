@@ -1,7 +1,22 @@
-![](circleprofile.png){fig-align="center" width="1920"}
-
 ---
 title: "Morgan Mathison"
+id: hero-heading
+image: circleprofile.png
+about:
+  template: jolla
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/morganmathison/
+    - icon: briefcase
+      text: KU Natural History Museum Page
+      href: https://biodiversity.ku.edu/people/morgan-mathison-paleobotany
+    - icon: pencil
+      text: ORCID
+      href: https://orcid.org/0009-0003-7452-2637
+    - icon: github
+      text: GitHub
+      href: https://github.com/morgangm
 ---
 
 Hello! I am Morgan Mathison. I am a Postbaccalaureate researcher at the [University of Kansas](https://biodiversity.ku.edu/people/morgan-mathison-paleobotany){style="color: pink"}, where I am currently working in the Natural History Museum's department of Paleobotany. I am researching angiosperm evolution and diversification in the Upper Cretaceous! 🌱🔬

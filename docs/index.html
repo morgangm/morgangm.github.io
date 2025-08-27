@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -71,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -91,10 +90,6 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link active" href="./index.html" aria-current="page"> 
 <span class="menu-text">About Me</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./contactinfo.html"> 
-<span class="menu-text">Contact Info</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./PostbacResearch.html"> 
@@ -123,43 +118,45 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-about-jolla">
+  <img src="circleprofile.png" class="about-image
+  round " style="height: 15em; width: 15em;">
+ <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Morgan Mathison</h1>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-  
-    
   </div>
-  
-
-
-</header>
-
-
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="circleprofile.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="1920"></p>
-</figure>
-</div>
+</header><main class="content" id="quarto-document-content">
 <p>Hello! I am Morgan Mathison. I am a Postbaccalaureate researcher at the <a href="https://biodiversity.ku.edu/people/morgan-mathison-paleobotany" style="color: pink">University of Kansas</a>, where I am currently working in the Natural History Museum’s department of Paleobotany. I am researching angiosperm evolution and diversification in the Upper Cretaceous! 🌱🔬</p>
 <p>Prior to my current position, I earned my BS in Plant Science at the University of Missouri in May of 2025, where I also completed a minor in Biology and a certificate in Retail Floral Management. As an undergrad, I was involved in research and assisted in a USDA lab, where I worked on utilizing drone imaging in plant phenotyping.</p>
 <p>This website serves as a collection of my past and current projects, as well as presentations and achievements!</p>
 
 
-
-</main> <!-- /main -->
+</main> 
+  <hr class="about-sep">
+   <div class="about-links">
+  <a href="https://www.linkedin.com/in/morganmathison/" class="about-link" rel="" target="">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">LinkedIn</span>
+  </a>
+  <a href="https://biodiversity.ku.edu/people/morgan-mathison-paleobotany" class="about-link" rel="" target="">
+    <i class="bi bi-briefcase"></i>
+     <span class="about-link-text">KU Natural History Museum Page</span>
+  </a>
+  <a href="https://orcid.org/0009-0003-7452-2637" class="about-link" rel="" target="">
+    <i class="bi bi-pencil"></i>
+     <span class="about-link-text">ORCID</span>
+  </a>
+  <a href="https://github.com/morgangm" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">GitHub</span>
+  </a>
+</div>
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -180,13 +177,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

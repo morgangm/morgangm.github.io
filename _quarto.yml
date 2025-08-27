@@ -8,8 +8,6 @@ website:
     left:
       - href: index.qmd
         text: About Me
-      - href: contactinfo.qmd
-        text: Contact Info
       - href: PostbacResearch.qmd
         text: Postbac Research
       - href: UndergradResearch.qmd
