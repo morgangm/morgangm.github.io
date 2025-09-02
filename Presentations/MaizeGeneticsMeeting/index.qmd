@@ -1,0 +1,11 @@
+---
+title: "Maize Genetics Meeting"
+date: "2025-03-07"
+image: "PosterPicture.jpg"
+categories:
+  - Undergrad
+  - Poster
+  - Conference
+---
+
+As my project continued, I had the opportunity to attend and present a poster at Maize Genetics Meeting 2025, hosted in St. Louis, Missouri. I presented an updated poster of my capstone project, including work I had done since my last poster the previous semester. Besides presenting a poster, and connecting with and recieving insightful feedback from other researchers focused on maize, I was also able to attend a variety of panels and presentations, where I was able to learn further about the wide array of research questions and studies being conducted with maize as the organism of interest. I am incredibly thankful for the organizing committee for planning and hosting this conference, and appreciated the opportunity to continue to present my research and connect with individuals conducting similar studies. 

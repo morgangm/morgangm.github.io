@@ -1,0 +1,12 @@
+---
+title: "Show Me Research Week Spring 2025"
+date: "2025-04-15"
+image: "SMRW2025_Landscape.JPG"
+categories:
+  - Undergrad
+  - Poster
+---
+
+The University of Missouri hosts a research week in the fall and spring semesters, titled "Show Me Research Week." For the spring 2025 Show Me Research Week, I presented a poster over my capstone project, discussing the work I had done, and the results we had calculated thus far, specifically highlighting the work I had done in calculating correlations between NDVI (a vegetative indice collected from drone data that quantifies photosynthetic capability) and yield, to determine if there was a relationship between the two. I calculated this in the form of Pearson R tests for each flight date, to determine the best time in the season to calculate yield based off of NDVI. (When in the season the correlation was highest)
+
+![](SMRW2025_Portait.JPG)

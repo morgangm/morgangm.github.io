@@ -1,0 +1,13 @@
+---
+title: "Kansas Innovation Festival"
+date: "2025-08-12"
+image: "InnovFest_Portrait.JPG"
+categories:
+  - PostBac
+  - Poster
+  - Conference
+---
+
+After beginning my new position at the University of Kansas, my cohort and I were invited to attend Kansas Innovation Festival, a conference focused on the intersection of biology research and technological advancements. For this conference, I presented a poster over my undergraduate research.
+
+![](InnovFest_Landscape.JPG){fig-align="center"}

@@ -1,0 +1,9 @@
+---
+title: "Senior Capstone Presentation"
+date: "2025-04-20"
+image: "CapstoneTitleSlide.png"
+categories:
+  - Undergrad
+  - Presentation
+---
+

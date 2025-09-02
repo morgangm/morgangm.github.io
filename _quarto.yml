@@ -13,9 +13,7 @@ website:
       - href: UndergradResearch.qmd
         text: Undergrad Research
       - href: presentations.qmd
-        text: Presentations
-      - href: FloralArtistry.qmd
-        text: Floral Artisty
+        text: Posters and Presentations
         
 format:
   html:
