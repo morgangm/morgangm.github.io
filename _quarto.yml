@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+        - Mathison_CV.pdf
 
 website:
   title: "Morgan Mathison"
